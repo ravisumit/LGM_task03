@@ -1,0 +1,37 @@
+body
+{
+   background-color: goldenrod;
+}
+.mainscreen
+{
+   margin-top:10px;
+   margin-left: 500px;
+   font-size: 40px;
+   color:crimson; 
+   font-weight: bold;
+
+    
+
+}
+
+h1
+{
+   color: blue;
+   margin-top:40px;
+   margin-left: 500px;
+
+}
+.card
+{
+   border-radius: 2px;
+
+}
+.row
+{
+   color: rgb(235, 24, 24);
+   font-weight: bold;
+}
+#history
+{
+   margin-left: 0px;
+}
